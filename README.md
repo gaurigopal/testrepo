@@ -18,6 +18,8 @@ test repo
 
 5. git push
    - Uploads committed changes from the local repository to the remote repository (GitHub).
+     
+6. git pull
 
 Typical Workflow:
 git clone → modify files → git add . → git commit -m "message" → git push
